@@ -1,0 +1,5 @@
+Supermercado Exemplo
+Arroz - R$ 10,00
+Feijão - R$ 7,50
+Macarrão - R$ 5,00
+Data: 19/11/2024
